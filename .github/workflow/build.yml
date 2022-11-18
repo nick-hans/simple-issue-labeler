@@ -15,5 +15,4 @@ jobs:
       - name: initial labeling
         uses: andymckay/labeler@master
         with:
-          add-labels: "needs-triage, bug"
-          remove-labels: "in progress"
+          add-labels: "NEW ISSUE"
